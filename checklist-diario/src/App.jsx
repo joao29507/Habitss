@@ -1,4 +1,5 @@
 import './App.css'
+import './components/TarjetaHabito'
 
 function App() {
   const habitos = [
